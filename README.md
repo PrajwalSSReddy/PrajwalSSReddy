@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prajwal S S Reddy</h1>
 <h3 align="center">A Data Analyst</h3>
 
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQBoH94BhHJSOioAvQxG9H6Ci8qfVk9E_S1Q&usqp=CAU">
+
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/prajwalssreddy](www.linkedin.com/in/prajwalssreddy)
 
 - 📫 How to reach me **prajwalssreddy@gmail.com**
@@ -18,4 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalssreddy&show_icons=true&locale=en&layout=compact" alt="prajwalssreddy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwalssreddy&show_icons=true&locale=en" alt="prajwalssreddy" /></p>
-

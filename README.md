@@ -1,4 +1,4 @@
-|[logo]([https://github.com/PrajwalSSReddy/PrajwalSSReddy/blob/main/prajwal_banner_image.png](https://github.com/PrajwalSSReddy/PrajwalSSReddy/blob/main/prajwal_dark_image.jpeg))
+![logo]([https://github.com/PrajwalSSReddy/PrajwalSSReddy/blob/main/prajwal_banner_image.png](https://github.com/PrajwalSSReddy/PrajwalSSReddy/blob/main/prajwal_dark_image.jpeg))
 <h1 align="center">Hi 👋, I'm Prajwal S S Reddy</h1>
 <h3 align="center">As a Computer Science Engineering graduate from VTU, I do have a strong grasp in coding, specifically in Python and Data Analytics. With over 2+ years of experience in python coding, I have had the opportunity of working on several projects involving Data Analytics and related topics. I am a keen learner and am always ready to adapt to new environment. I'm actively looking for opportunities in the domain of Data Analytics.</h3>
 
